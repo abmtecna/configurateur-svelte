@@ -1,0 +1,63 @@
+[
+    {
+      "name": "Moteurs électriques",
+      "type":"category",
+      "content":
+      [{
+        "name": "Moteurs ABB",
+        "type":"form",
+        "content": [
+            {
+                "name": "Puissance",
+                "type": "radio",
+                "content":["0.055","0.06","0.09","0.12","0.15","0.18","0.25","0.37","0.45","0.55","0.6","0.68","0.75","0.95","1.1","1.5","1.85","1.9","2","2.2","2.7","3","3.8","4","5.5","6.5","7.5","8.5","9.2","11","14","15","18.5","22","30","37","45","48","55","73","75","80","90","95","110","132","160","200","250","280","315","355","400","450","500","560","630"]
+            },
+            {
+                "name": "Bride",
+                "type": "radio",
+                "content":["B3","B5","B14"]
+            },
+            {
+                "name": "Phase",
+                "type": "radio",
+                "content":["2","3"]
+            },
+            {
+                "name": "Matière",
+                "type": "radio",
+                "content":["A","F"]
+            },
+            {
+                "name": "Vitesse",
+                "type": "radio",
+                "content":["750","1000","1500","3000","3000/750"]
+            },
+            {
+                "name": "Design",
+                "type": "radio",
+                "content":["-HOD"]
+            },
+            {
+                "name": "Efficacité",
+                "type": "radio",
+                "content":["EFF1"]
+            },
+            {
+                "name": "ATEX",
+                "type": "radio",
+                "content":["ATEX","ATEX2","ATEX22"]
+            },
+            {
+                "name": "Tension",
+                "type": "radio",
+                "content":["230","220/380","230/400","400/690","500"]
+            },
+            {
+                "name": "Etanchéité",
+                "type": "radio",
+                "content":["IP55"]
+            }
+        ]
+      }]
+    }
+]
